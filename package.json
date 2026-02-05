@@ -15,8 +15,8 @@
     "ibm-watson": "^5.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
-    "watson-speech": "^0.38.1"
+    "react-scripts": "5.0.1",
+    "watson-speech": "^0.41.0"
   },
   "scripts": {
     "start": "react-scripts start",
